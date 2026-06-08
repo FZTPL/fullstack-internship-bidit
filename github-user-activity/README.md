@@ -4,7 +4,7 @@ A simple command-line application that fetches and displays a GitHub user's rece
 
 # GitHub Activity CLI
 
-Project URL: https://roadmap.sh/projects/github-user-activity
+https://roadmap.sh/projects/github-user-activity
 
 ## Features
 
