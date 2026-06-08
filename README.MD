@@ -14,6 +14,10 @@ GitHub-User-Activity
 
 Project URL: https://roadmap.sh/projects/github-user-activity
 
+Expense Tracker
+
+Project URL: https://roadmap.sh/projects/expense-tracker
+
 ## 📂 Folders in this Repository
 
 Here is what you will find inside this workspace:
