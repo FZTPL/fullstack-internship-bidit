@@ -5,9 +5,14 @@ Welcome! This repository contains the Python projects I am building during my in
 ---
 
 Project URLs
+
 Task Tracker
 
 Project URL: https://roadmap.sh/projects/task-tracker
+
+GitHub-User-Activity
+
+Project URL: https://roadmap.sh/projects/github-user-activity
 
 ## 📂 Folders in this Repository
 
