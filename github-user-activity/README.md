@@ -2,10 +2,6 @@
 
 A simple command-line application that fetches and displays a GitHub user's recent activity.
 
-# GitHub Activity CLI
-
-https://roadmap.sh/projects/github-user-activity
-
 ## Features
 
 - Fetch recent GitHub activity
